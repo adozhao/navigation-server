@@ -1,6 +1,6 @@
 ### 说明
 - 本项目最初的想法是想构建一套私人导航页，供家中NAS使用，因为NAS上跑的服务太多，端口号记不住。而目前市面上的导航页太过花哨，且大部分没有登录功能，不满足私人使用条件，毕竟NAS上部署的服务甚至是真实的地址都是不能够对外暴露的，所以业余时间写了这么一套，
-- 计划是日后有时间封装成docker在NAS中使用。本项目包括[服务端](https://github.com/github-ado/navigation-server)和[客户端](https://github.com/github-ado/navigation-client),由于事件关系，日后还有很多需要完善的地方...
+- 计划是日后有时间封装成docker应用在NAS中使用。本项目包括[服务端](https://github.com/github-ado/navigation-server)和[客户端](https://github.com/github-ado/navigation-client),由于事件关系，日后还有很多需要完善的地方...
 
 ### 功能
 - 支持登录、注册
