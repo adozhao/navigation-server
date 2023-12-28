@@ -8,7 +8,7 @@
 - 支持链接的新增/删除
 - 支持分类的拖拽排序
 - 支持上传/替换背景图片
-- 支持链接的打开方式
+- 支持设置链接的打开方式
 - 支持移动端显示和操作<br/>
 ...
 
@@ -27,7 +27,7 @@
 npm i
 npm start
 ```
->服务端以3000端口运行，可以浏览器打开localhost:3000，如页面出现`service start success!`字样，代表启动成功
+>服务端以3000端口运行，可以浏览器打开localhost:3000，如页面出现`service start success!`字样，代表启动服务成功
 ### 项目预览
 ![](https://github.com/github-ado/navigation-client/blob/main/screenshots/1.png)
 ![](https://github.com/github-ado/navigation-client/blob/main/screenshots/2.png)
