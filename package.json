@@ -1,6 +1,6 @@
 {
-  "name": "express-start",
-  "version": "0.1.0",
+  "name": "navigation-client",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "pm2 start ./bin/www --watch"
