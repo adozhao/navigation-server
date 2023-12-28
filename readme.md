@@ -21,6 +21,7 @@
 - 本地需安装NodeJs,为确保项目运行，可以用nvm安装并切换为node v14.16.1 版本<br/>
 - 本地需安装mongodb，并注意代码中相关mongodb的配置信息<br/>
 - 全局安装pm2<br/>
+
 项目运行<br/>
 ```
 npm i
