@@ -29,11 +29,11 @@ npm start
 ```
 >服务端以3000端口运行，可以浏览器打开localhost:3000，如页面出现`service start success!`字样，代表启动服务成功
 ### 项目预览
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/1.png)
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/2.png)
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/3.png)
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/4.png)  
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/5.png)  
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/6.png)  
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/7.png)  
-![](https://github.com/github-ado/navigation-client/blob/main/screenshots/8.png)
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/1.png)
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/2.png)
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/3.png)
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/4.png)  
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/5.png)  
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/6.png)  
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/7.png)  
+![](https://github.com/adozhao/navigation-client/blob/main/screenshots/8.png)
